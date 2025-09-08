@@ -41,10 +41,4 @@ By combining React.js with modern styling and animation tools, SolarWeb is not j
 - **Framer Motion** → Declarative React animation library  
 - **Lucide React (optional)** → Modern and customizable icon library  
 
----
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/solarweb.git
-cd solarweb
 
